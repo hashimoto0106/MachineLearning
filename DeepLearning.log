@@ -1,0 +1,10 @@
+Time,ms,LogLevel,Source,LineNo,Function,Module,Logger,ProcessName,ThreadName,Message
+2018-07-29 01:17:41,314,WARNING,4_3_3_•Î”÷•ª.py,56,<module>,4_3_3_•Î”÷•ª,root,MainProcess,MainThread,Start
+2018-07-29 01:34:19,566,ERROR,4_3_3_•Î”÷•ª.py,56,<module>,4_3_3_•Î”÷•ª,root,MainProcess,MainThread,Start
+2018-07-29 01:34:39,716,ERROR,4_3_3_•Î”÷•ª.py,56,<module>,4_3_3_•Î”÷•ª,root,MainProcess,MainThread,Start
+2018-07-29 01:34:40,758,ERROR,4_3_3_•Î”÷•ª.py,56,<module>,4_3_3_•Î”÷•ª,root,MainProcess,MainThread,Start
+2018-07-29 01:36:14,227,ERROR,4_3_3_•Î”÷•ª.py,56,<module>,4_3_3_•Î”÷•ª,root,MainProcess,MainThread,Start
+2018-07-29 01:36:14,907,ERROR,4_3_3_•Î”÷•ª.py,56,<module>,4_3_3_•Î”÷•ª,root,MainProcess,MainThread,Start
+2018-07-29 01:38:13,217,ERROR,4_3_3_•Î”÷•ª.py,56,<module>,4_3_3_•Î”÷•ª,root,MainProcess,MainThread,Start
+2018-07-29 01:38:13,897,ERROR,4_3_3_•Î”÷•ª.py,56,<module>,4_3_3_•Î”÷•ª,root,MainProcess,MainThread,Start
+2018-08-13 15:07:03,375,WARNING,legend.py,1384,_parse_legend_args,legend,matplotlib.legend,MainProcess,MainThread,No handles with labels found to put in legend.
